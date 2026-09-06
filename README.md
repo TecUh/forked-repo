@@ -9,3 +9,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r/100
+
+The terminal output of the first merge in the file named merge_branches, showing the commands git checkout main and git merge bug-fix-typo along with their respective terminal output.
